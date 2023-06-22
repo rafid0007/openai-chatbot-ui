@@ -1,0 +1,10 @@
+.floating-image {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  opacity: .8;
+}
